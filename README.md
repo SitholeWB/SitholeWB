@@ -31,6 +31,8 @@
 </a>
 </p>
 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5117174&layout=compact&theme=dark)](https://stackoverflow.com/users/5117174/sitholewb)
+
 
 ##  🤝🏻 &nbsp;Connect with Me
 
