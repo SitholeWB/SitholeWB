@@ -14,6 +14,7 @@
   ![C#](https://img.shields.io/badge/-.Net%20Framework-blue?style=flat&logo=csharp)
   ![C#](https://img.shields.io/badge/-.Net%20Core-007ACC?style=flat&logo=csharp)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flutter&logo=flutter)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
