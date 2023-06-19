@@ -27,8 +27,8 @@
 ## My Stats
 <p>
 <a href="https://github.com/sitholewb">
+ <img src = "https://metrics.lecoq.io/sitholewb?template=classic" alt = "Metrics">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sitholewb&langs_count=8" alt = "Top Langs">
-<img src = "https://metrics.lecoq.io/sitholewb?template=classic" alt = "Metrics">
 </a>
 </p>
 
