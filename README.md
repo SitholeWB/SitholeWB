@@ -26,13 +26,17 @@
 
 ## My Stats
 <p>
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=5117174&layout=compact&theme=dark" alt="Top Langs">
+ <a href="https://github.com/sitholewb">
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sitholewb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Top Langs">
+
+</a>
+
 <a href="https://github.com/sitholewb">
- <img src = "https://metrics.lecoq.io/sitholewb?template=classic" alt = "Metrics">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sitholewb&langs_count=8" alt = "Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitholewb&langs_count=6&theme=dark" alt
 </a>
 </p>
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5117174&layout=compact&theme=dark)](https://stackoverflow.com/users/5117174/sitholewb)
 
 
 ##  🤝🏻 &nbsp;Connect with Me
