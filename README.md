@@ -27,8 +27,8 @@
 ## My Stats
 <p>
 <a href="https://github.com/sitholewb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sitholewb&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sitholewb&theme=radical&layout=compact" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sitholewb&langs_count=8" alt = "Top Langs">
+<img src = "https://metrics.lecoq.io/sitholewb?template=classic" alt = "Metrics">
 </a>
 </p>
 
