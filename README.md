@@ -5,7 +5,6 @@
  🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.\
  🎓 &nbsp; Bsc Hons Computer Science, University Of KwaZulu Natal.\
  💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
- 📄 &nbsp;Please have a look at my [Résumé](https://sitholewb.github.io/my-resume) for more details about me. I'm open to feedback and suggestions!
 
 
 ### 🛠 &nbsp;Tech Stack
