@@ -33,9 +33,7 @@
 </p>
 <p>
 
-<a href="https://github.com/sitholewb">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitholewb&langs_count=6&theme=dark" >
-</a>
+
 <a href="https://stackoverflow.com/users/5117174/sitholewb" target="_blank">
  <img src="https://github-readme-stackoverflow.vercel.app/?userID=5117174&layout=compact&theme=dark" alt="Top Langs">
 </a>
